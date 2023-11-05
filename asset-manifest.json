@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ashoka2002/atomic-blog/static/css/main.1f78adec.css",
-    "main.js": "/Ashoka2002/atomic-blog/static/js/main.9e8f43af.js",
-    "index.html": "/Ashoka2002/atomic-blog/index.html",
-    "main.1f78adec.css.map": "/Ashoka2002/atomic-blog/static/css/main.1f78adec.css.map",
-    "main.9e8f43af.js.map": "/Ashoka2002/atomic-blog/static/js/main.9e8f43af.js.map"
+    "main.css": "/atomic-blog/static/css/main.eb1cb02f.css",
+    "main.js": "/atomic-blog/static/js/main.aa356d02.js",
+    "index.html": "/atomic-blog/index.html",
+    "main.eb1cb02f.css.map": "/atomic-blog/static/css/main.eb1cb02f.css.map",
+    "main.aa356d02.js.map": "/atomic-blog/static/js/main.aa356d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f78adec.css",
-    "static/js/main.9e8f43af.js"
+    "static/css/main.eb1cb02f.css",
+    "static/js/main.aa356d02.js"
   ]
 }
